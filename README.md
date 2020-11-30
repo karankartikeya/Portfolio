@@ -1,2 +1,2 @@
 # Portfolio
-My E-resume
+My E-resume [here] (https://karankartikeya.netlfiy.app)
